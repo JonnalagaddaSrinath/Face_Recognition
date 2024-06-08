@@ -8,7 +8,7 @@ from tensorflow.keras.utils import to_categorical
 
 
 # Path to the dataset
-dataset_path = 'test'
+dataset_path = 'dataset'
 
 # Parameters
 IMG_HEIGHT, IMG_WIDTH = 150, 150
